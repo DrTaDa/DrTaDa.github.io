@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tanguy Damart"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Scientific Software Engineer at the Blue Brin Project at EPFL. My main center of interests are cognitive sciences, philosophy and computer sciences."
   location         : "Geneva, Switzerland"
   employer         : "Blue Brain Project - EPFL"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UAiver8AAAAJ&hl=fr"
   email            : "tanguy.damart@epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
