@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanguy Damart / Not Your Typical Sunday Evening Spirit"
+title                    : "Tanguy Damart"
 title_separator          : "-"
 name                     : &name "Tanguy Damart"
 description              : &description "personal page"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanguy Damart"
   avatar           : "profile.png"
-  bio              : "Scientific Software Engineer at the Blue Brin Project at EPFL. My main center of interests are cognitive sciences, philosophy and computer sciences."
+  bio              : "Scientific Software Engineer at the Blue Brain Project at EPFL. My main center of interests are cognitive sciences, philosophy and computer sciences."
   location         : "Geneva, Switzerland"
   employer         : "Blue Brain Project - EPFL"
   pubmed           :
