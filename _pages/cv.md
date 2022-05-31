@@ -1,10 +1,12 @@
 ---
+title: CV
+permalink: "/cv/"
 layout: archive
-title: "CV"
-permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+- "/resume"
 ---
 
-<embed src="https://DrTaDa.github.io/files/CV_english.pdf" type="application/pdf" width="600px" height="500px" />
+{% include base_path %}
+
+<iframe src={{site.baseurl}}"/files/CV_english.pdf" width="100%" height="800pt">
