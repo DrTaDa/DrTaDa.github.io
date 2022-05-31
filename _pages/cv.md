@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-<embed src="{{ site.baseurl }}/files/CV_english.pdf" width="800px" height="2100" type='application/pdf'>
+<embed src="https://DrTaDa.github.io/files/CV_english.pdf" type="application/pdf" width="600px" height="500px" />
