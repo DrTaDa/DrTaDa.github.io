@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tanguy Damart"
-  avatar           : "files/profile_pic.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Scientific Software Engineer at the Blue Brain Project at EPFL. My main center of interests are cognitive sciences, philosophy and computer sciences."
   location         : "Geneva, Switzerland"
   employer         : "Blue Brain Project - EPFL"
